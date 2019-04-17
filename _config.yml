@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Squirrel VPN - Fastest proxy # Optional - Enter your site title
+description: SquirrelVPN offers thousands of servers in 60 countries. That means a fast and stable connection wherever you are. # Optional - Enter your site description
 
 #
 # Google Analytics
